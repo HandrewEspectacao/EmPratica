@@ -1,3 +1,23 @@
 *{
-    
+    font-family: 'Alkatra', cursive;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#nave a:hover{
+    color: aqua;
+}
+#hc{
+    background-color: goldenrod;
+}
+#posimage{
+    width:35%;
+    height: 35%;
+    float: left;
+    margin-top: 10px;
+    margin-left: 45px;
+    margin-right: 15px;
+}
+.cor{
+    background-color: #ece5dd;
 }
