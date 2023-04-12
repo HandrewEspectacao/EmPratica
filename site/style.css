@@ -21,3 +21,17 @@
 .cor{
     background-color: #ece5dd;
 }
+#footer{
+    width: 100%;
+    height: 15px;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+}
+#rodape{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    bottom: 0; 
+   
+}
